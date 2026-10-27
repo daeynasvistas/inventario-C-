@@ -6,7 +6,6 @@ Sistema de gestão de ordens de reparação para a empresa TechRepair.
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
 
-
 ## Tecnologias utilizadas
 
 - C# e ASP.NET Core Web API (.NET 10)

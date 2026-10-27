@@ -5,5 +5,6 @@ App realizada nas aulas de C# na EPT
 
 Adicionar novo código
 
-Criar software com agent Cline ou kilo
+Criar software com agent Cline ou kilo. Para criar uma APP de inventário.
+
 

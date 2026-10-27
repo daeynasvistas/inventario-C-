@@ -5,8 +5,7 @@ Sistema de gestão de ordens de reparação para a empresa TechRepair.
 ## Pré-requisitos
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
-- Visual Studio Code ou outro editor compatível
-- Terminal
+
 
 ## Tecnologias utilizadas
 

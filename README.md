@@ -14,6 +14,7 @@ Sistema de gestão de ordens de reparação para a empresa TechRepair.
 - OpenAPI/Swagger
 - Proteção Antiforgery (CSRF)
 
+
 ## Arquitetura
 
 - API REST com prefixo `/api`
